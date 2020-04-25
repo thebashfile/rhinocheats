@@ -1,2 +1,2 @@
-# rhinocheats
-RhinoCheats Template by SPRXSH
+# Rhino Cheats
+RhinoCheats Website Source by SPRX
